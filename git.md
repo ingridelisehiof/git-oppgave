@@ -11,3 +11,5 @@ git commit -am "initial dev"
 git push --set-upstream origin dev
 git fetch
 git pull
+git merge dev
+git push
